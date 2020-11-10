@@ -1,0 +1,24 @@
+
+###> symfony/framework-bundle ###
+/apps/api/.env.local
+/apps/api/.env.local.php
+/apps/api/.env.*.local
+/apps/api/config/secrets/prod/prod.decrypt.private.php
+/apps/api/public/bundles/
+/apps/api/var/
+/apps/api/vendor/
+###< symfony/framework-bundle ###
+
+/apps/ui/node_modules
+/apps/ui/public/hot
+/apps/ui/public/storage
+/apps/ui/storage/*.key
+/apps/ui/vendor
+/apps/ui/.env
+/apps/ui/.env.backup
+/apps/ui/.phpunit.result.cache
+/apps/ui/Homestead.json
+/apps/ui/Homestead.yaml
+/apps/ui/npm-debug.log
+/apps/ui/yarn-error.log
+/database
